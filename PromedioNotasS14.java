@@ -35,4 +35,4 @@ public class PromedioNotasS14 {
         System.out.print("El promedio es : " +  resultado);
         
     }
-}g
+}
